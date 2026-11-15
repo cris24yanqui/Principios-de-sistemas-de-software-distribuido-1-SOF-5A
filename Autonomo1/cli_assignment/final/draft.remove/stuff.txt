@@ -1,0 +1,5 @@
+Universidad Internacional del Ecuador (UIDE)
+Principios de Sistemas de Software Distribuido
+Tarea 1: Linea de comandos en Linux y Modelo OSI
+Agregando nuevas lineas al archivo con redireccion doble
+Configuracion de entorno y herramientas de red
